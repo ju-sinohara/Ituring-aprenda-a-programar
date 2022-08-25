@@ -1,0 +1,109 @@
+    1  pwd
+    2  ls
+    3  cd
+    4  clear
+    5  ls
+    6  cd meus documentos
+    7  pwd
+    8  cd
+    9  cd 'meus documentos'
+   10  ls
+   11  cd:
+   12  ls
+   13  pwd
+   14  cd :
+   15  cd :
+   16  cd ..
+   17  cd 'meus documentos'
+   18  ls
+   19  mkdir
+   20  mkdir 5-habilidades-essenciais
+   21  ls
+   22  cd 5-habilidades-essenciais
+   23  ls
+   24  ls raciocinio-logico
+   25  mkdir raciocinio-logico
+   26  ls
+   27  mkdir saber-pesquisar
+   28  mkdir informatica-basica
+   29  mkdir logica-de-programacao
+   30  mkdir metodos-ageis
+   31  cd
+   32  cd 'meus documentos'
+   33  ls
+   34  cd 5-habilidades-essesnciais
+   35  ls
+   36  pwd
+   37  cd 5-habilidades-essenciais
+   38  ls
+   39  pwd
+   40  touch explicacao.txt
+   41  ls
+   42  cd saber-pesquisar
+   43  touch explicacao.txt
+   44  ls
+   45  cat explicacao.txt
+   46  cd..
+   47  cd ..
+   48  git --version
+   49  node --versio
+   50  node --version
+   51  pwd
+   52  cd ..
+   53  pwd
+   54  ls
+   55  c:
+   56  clear
+   57  ls
+   58  julia
+   59  cd julia
+   60  ls
+   61  cd one drive
+   62  cd OneDrive/
+   63  ls
+   64  cd area-de-trabalho
+   65  ls
+   66  cd area
+   67  cdArea
+   68  cd Area
+   69  cd 'Area de trabalho"
+
+q
+   70  cd Área\ de\ Trabalho/
+   71  mkdir dia-1-primeiros-passos
+   72  ls
+   73  remove x
+   74  rmdir x
+   75  ls
+   76  cd dia-1-primeiros-passos/
+   77  mkdir tarefa-dia-1
+   78  ls
+   79  cd tarefa-dia-1/
+   80  touch resumo-dia-1.md
+   81  history
+   82  vi resumo-dia-1.md 
+   83  head -5
+   84  head resumo-dia-1.md 
+   85  head-5
+   86  head -5
+   87  head resumo-dia-1.md -5
+   88  head -5 resumo-dia-1.md 
+   89  man head
+   90  cat resumo-dia-1.md 
+   91  grep <programacao> <resumo-dia-1.md >
+   92  grep <programacao> <resumo-dia-1.md>
+   93  grep programacao resumo-dia-1.md 
+   94  grep programação resumo-dia-1.md 
+   95  grep ^-
+   96  pwd
+   97  cd
+   98  cd OneDrive/Área\ de\ Trabalho/
+   99  ls
+  100  cd dia-1-primeiros-passos/
+  101  ls
+  102  cd tarefa-dia-1/
+  103  ls
+  104  pwd
+  105  ls
+  106  history
+  107  history > tarefa1.txt
